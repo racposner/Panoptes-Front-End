@@ -16,7 +16,7 @@ export default {
       tutorialTab: 'إرشاد'
     },
     recents: 'فهرَساتك الأخيرة',
-    talk: 'Talk',
+    talk: 'محادثة',
     taskHelpButton: 'بحاجة إلى مساعدة في هذه المهمّة؟',
     miniCourseButton: 'Restart the project mini-course',
     workflowAssignmentDialog: {
